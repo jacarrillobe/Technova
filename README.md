@@ -48,5 +48,5 @@ El proyecto está organizado en varias vistas:
 ## Cómo ejecutar el proyecto
 1. Clonar el repositorio:  
    ```bash
-   git clone https://github.com/jacarrillobe/Technova.git
-   cd Technova
+   https://github.com/jacarrillobe/Technova.git
+
