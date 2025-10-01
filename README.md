@@ -48,5 +48,5 @@ El proyecto está organizado en varias vistas:
 ## Cómo ejecutar el proyecto
   
    ```bash
-   https://github.com/jacarrillobe/Technova
+   https://jacarrillobe.github.io/Technova/
 
